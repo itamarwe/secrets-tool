@@ -1,5 +1,5 @@
 # secrets-tool
-A tool for sharing secrets using Shamir secret sharing.
+A command-line tool for sharing secrets using Shamir secret sharing.
 A wrapper for the lovely secrets.js package.
 
 ## Installation
