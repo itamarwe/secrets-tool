@@ -11,7 +11,6 @@ command('share <secret>')
   secretHex = secrets.str2hex secret
   m = options.M
   n = options.N
-  console.log secretHex, m, n
   shares = secrets.share secretHex, n, m
   console.log shares
 
